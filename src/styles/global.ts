@@ -40,7 +40,7 @@ html {
 }
 
 body {
-    background: var(--background);
+    background: var(--shape);
     -webkit-font-smoothing: antialiased;
 }
 button {
